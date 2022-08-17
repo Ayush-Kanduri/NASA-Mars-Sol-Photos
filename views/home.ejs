@@ -1,0 +1,17 @@
+<form action="">
+	<input
+		type="number"
+		id="sol"
+		placeholder="Enter sol (max. 1000)"
+		min="0"
+		max="1000"
+	/>
+	<input
+		type="number"
+		id="page"
+		placeholder="Enter page number to display"
+		min="0"
+	/>
+	<button>Get Images</button>
+</form>
+<div id="nasa-images" class="flex-center"><%- include('_images'); %></div>
