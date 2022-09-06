@@ -62,7 +62,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://nasa-mars-sol-photos.herokuapp.com)
+> ## Checkout the Website [Web Application](https://nasa-mars-sol-photos.onrender.com)
 
  <br/>
 
